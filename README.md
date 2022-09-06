@@ -31,5 +31,5 @@ I'm a CS student. I love exploring different linux distros. I enjoy programing o
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hding9&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hding9&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hding9&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </a>
