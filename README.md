@@ -20,7 +20,7 @@ I'm a CS student. I love exploring different linux distros. I enjoy programing o
 - 🔭 I’m currently working on computer vision stuff.
 - 🌱 I’m currently learning ml, ml frameworks, html/css, etc.
 - ⚡ Fun fact: I'm a Keyboard Enthusiast.
-- :wrench: Daily drive: OwLab Suit 80 + cobalt + GMK Godspeed
+- :wrench: Daily drive: OwLab Suit 80 + TTC wild + GMK Arch
 
 <!--END_SECTION:waka-->
 
